@@ -60,7 +60,7 @@ let btnText = document.createTextNode('Work with us!');
     h4.appendChild(heroText);
     textDiv.appendChild(btn);
     btn.appendChild(btnText);
-    balh blah
+
 
 secondSection.style = "width:100%;padding:70px 0 100px 0;background:#87509c;color:#fff";
 textDiv.style = "text-align:center";
